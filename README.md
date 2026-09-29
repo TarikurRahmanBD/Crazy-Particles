@@ -55,7 +55,7 @@ Move your hands in front of the camera to trigger the visual states and particle
 This project was created by **Tarikur Rahman**.
 
 - GitHub: https://github.com/tarikurrahmanbd
-- Portfolio: https://yourtarikur.netlify.app/
+- Portfolio: https://yourtarikur.vercel.app/
 - Social/Handle: tarikurrahman08
 - Email: tarikurrahman2008@gmail.com
 
